@@ -11,6 +11,8 @@
  * fast charging station have at least two outlets of each standard
  * fast charging stations provide 100% renewable energy
  * members own and operate the whole ‘charging experience’ - the charging hardware, back office, network operations and customer support
+ * members do not really care about IT security
+ * members like to ignore the European General Data Protection Regulation (GDPR)
 
 **Roaming criteria**
 
